@@ -4,6 +4,8 @@
 Выполненные задания присылать на почту ailabintsev@fa.ru  
 Текущая успеваемость отражается в файле leaderboard.csv  
 
+https://drive.google.com/drive/folders/14igaMTWTQvEszOYKfnVkjc8A0bpXLx3e
+
 ### Вопросы к экзамену  
 
 1. Функциональная парадигма программирования. Функции высшего порядка - map, filter, reduce. 
